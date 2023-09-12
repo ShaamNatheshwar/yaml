@@ -1,0 +1,26 @@
+YAML configuration language
+    used in devops tools like ansible, docker, kubernetes
+
+we write dockercompose file in yaml
+we write kubernetes manifest file in yaml
+ we write ansible list in yaml
+
+
+The entire yaml file is of key value pair type
+
+
+characteristics of YAML
+  YAML aint a markup language
+
+  its used for data serialization like xml, json but not a substitute
+
+  helps in exchange between people and computer 
+  All programming languages have library for YAML 
+  It can be used in arrays and dictionaries
+  extension can be .yml, .yaml
+
+
+Data serialization
+  Process of converting a data that could be stored or sent over a network
+  we can use python to serialize the data and send it over to another program...where we can
+use javascript to deserialize and use it
